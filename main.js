@@ -1,7 +1,7 @@
 song = "";
 
 function preload() {
-song = loadSound("Stay Kid Laroi (ft. Justin Bieber");
+song = loadSound("Stay.mp3");
 }
 
 function setup() {
